@@ -1,4 +1,3 @@
-
 "use client";
 
 import { fabric } from "fabric";
